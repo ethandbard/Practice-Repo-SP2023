@@ -1,27 +1,21 @@
-## Student Name (or name you would preferred to be called)
+## Ethan Bard
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
-
-- Course 2
-
-- Course 3
-
-- Course 4
+- COP 2073
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- R
 
-- Thing 2
+- Data Science
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Teaching at Florida Poly <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/20
