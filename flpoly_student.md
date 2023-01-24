@@ -2,7 +2,7 @@
 
 ### Spring 2023
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA Instructor at [Florida Polytechnic University](https://www.floridapoly.edu) currently teaching: 
 
 - COP 2073
 
